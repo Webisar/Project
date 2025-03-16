@@ -1,0 +1,6 @@
+print("Welcome to Addition Game!: ")
+x = input("Enter a number: ")
+y = input("Enter a number: ")
+sum = float(x) + float(y)
+print(sum)
+print("Thank you for your time!")
